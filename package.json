@@ -1,0 +1,23 @@
+{
+  "name": "my_first_contribute",
+  "version": "1.0.0",
+  "description": "",
+  "main": "x.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulbaki/my_first_contribute.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gulbaki/my_first_contribute/issues"
+  },
+  "homepage": "https://github.com/gulbaki/my_first_contribute#readme",
+  "dependencies": {
+    "expressjs": "^1.0.1"
+  }
+}
